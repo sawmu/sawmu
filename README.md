@@ -25,7 +25,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sawmu&icon=0&color=1)](https://www.mukahbaw.com)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={sawmu}&theme=blue-green
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username={sawmu}&theme=blue-green)]
 
 <div align="center">
 
