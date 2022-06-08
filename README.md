@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCvJ9eaRijyaaF1R5XUR7L3g).
 - 💬 Ask me about design or any tech-related stuff.
 - 📫 How to reach me: [Youtube - Dina Wanderlust](https://www.youtube.com/channel/UCvJ9eaRijyaaF1R5XUR7L3g) 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sometimes faith has growing pains.
 
 ## 🌐Socials
