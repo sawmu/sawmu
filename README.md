@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on [Church Management System](https://www.cmccsg.com/).
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCvJ9eaRijyaaF1R5XUR7L3g).
-- 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about design or any tech-related stuff.
 - 📫 How to reach me: [Youtube - Dina Wanderlust](https://www.youtube.com/channel/UCvJ9eaRijyaaF1R5XUR7L3g) 
 - 😄 Pronouns: He/His
