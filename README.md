@@ -1,6 +1,6 @@
 ## Hello, I'm [Mu Ka Hbaw!](https://www.mukahbaw.com) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sawmu&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sawmu&label=Views&color=blue&style=plastic" alt="sawmu" /> </p>
 
 # 💫About Me :
 - 🔭 I’m currently working on [Church Management System](https://www.cmccsg.com/).
