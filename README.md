@@ -1,4 +1,4 @@
-## Hola, I'm [Mu Ka Hbaw!](https://www.mukahbaw.com) 👋
+## Hello, I'm [Mu Ka Hbaw!](https://www.mukahbaw.com) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
@@ -23,7 +23,7 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://www.mukahbaw.com)
 
 
 <div align="center">
