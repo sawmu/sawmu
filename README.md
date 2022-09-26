@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCvJ9eaRijyaaF1R5XUR7L3g).
 - 💬 Ask me about design or any tech-related stuff.
-- 📫 How to reach me: [Youtube - Dina Wanderlust](https://www.youtube.com/channel/UCvJ9eaRijyaaF1R5XUR7L3g) 
+- 📫 How to reach me: [Email](<mailto:sawmukahbaw191@gmail.com>) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sometimes faith has growing pains.
 
@@ -19,7 +19,7 @@
 
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://devhumor.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sawmu&icon=0&color=1)](https://www.mukahbaw.com)
