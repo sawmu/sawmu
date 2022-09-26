@@ -20,9 +20,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sawmu&icon=0&color=1)](https://www.mukahbaw.com)
-
-
 
 <div align="center">
 
